@@ -1,2 +1,2 @@
-# omnistack-mobile
-Projeto em React Native da semana omnistack
+# Talkaway
+Projeto de uma rede social para fins didáticos
