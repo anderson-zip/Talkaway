@@ -1,0 +1,35 @@
+-Users //usuários do sistema
+    --id
+    --email
+    --password
+    --name
+    --birthdate
+    --city
+    --work
+    --avatar
+    --cover
+    --token
+
+-UserRelation //relação entre usuários
+    --id
+    --user_from
+    --user_to
+
+-Posts //postagens do usuário
+    --id
+    --type (text, photo)
+    --created_at
+    --body
+
+-PostComments
+    --id
+    --id_post
+    --id_user
+    --created_at
+    --body
+-PostLikes
+    --id
+    --id_post
+    --id_user
+    --created_at
+
